@@ -1,0 +1,28 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "MANSORY Venatus",
+      "brand": "Lamborghini",
+      "price": "Upon Request",
+      "image": "https://example.com/venatus.jpg",
+      "description": "Exclusive Lamborghini Urus upgrade by Mansory"
+    },
+    {
+      "id": 2,
+      "name": "MANSORY P9LM EVO 900",
+      "brand": "Porsche",
+      "price": "Upon Request",
+      "image": "https://example.com/p9lm.jpg",
+      "description": "Porsche 911 Turbo S refinement program"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "New custom interior design released",
+      "date": "2025-08-15",
+      "content": "Mansory reveals its latest interior luxury customization..."
+    }
+  ]
+}
