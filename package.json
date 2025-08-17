@@ -1,12 +1,21 @@
 {
   "name": "mansory-json-api",
   "version": "1.0.0",
-  "type": "module",
+  "description": "Fake REST API with json-server for Mansory project",
+  "main": "db.json",
   "scripts": {
-    "dev": "npx json-server --watch db.json --port 5000",
-    "start": "npx json-server --watch db.json --host 0.0.0.0 --port 10000"
+    "dev": "json-server --watch db.json --port 5000",
+    "start": "node ./node_modules/json-server/lib/cli/bin.js --watch db.json --host 0.0.0.0 --port $PORT"
   },
+  "keywords": [
+    "json",
+    "api",
+    "fake",
+    "rest"
+  ],
+  "author": "Mani",
+  "license": "MIT",
   "dependencies": {
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "^0.17.4"
   }
 }
