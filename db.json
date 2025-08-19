@@ -24,5 +24,76 @@
       "date": "2025-08-15",
       "content": "Mansory reveals its latest interior luxury customization..."
     }
+  ],
+
+
+
+
+
+
+  "hero-carousel":[
+    {
+      "id": 1,
+      "lg-img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/68512494107c1cd67fd38a12_P820_ART_PIECE_01.jpg",
+      "sm-img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/685125462bba85b5cc852be3_P820_ART_PIECE_07%20kopie.webp",
+      "title": "MANSORY - Art Piece - AL3C MONO907Y",
+      "desc": ""      
+    },
+    {
+      "id": 2,
+      "lg-img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/681b50503f6a7c44037cac9a_white-speranza-hero.jpg",
+      "sm-img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/681b504a80fb6b273001701b_white-speranza-hero-mob.webp",
+      "title": "MANSORY SPERANZA",
+      "desc": "Completely Mercedes G-Class (W465) converted into a 4-door convertible"      
+    },
+    {
+      "id": 3,
+      "lg-img": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/67ee7643950e15a32927ec77_bentley-gt-hero.avif",
+      "sm-img": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/67ee767cf6f834a14669345d_bentley-gt-hero-mob.avif",
+      "title": "New Bentley Continental GT",
+      "desc": ""      
+    },
+    {
+      "id": 4,
+      "lg-img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/680a0ad3b9a3ad3d569e01d5_67c5baad782c9f0f88549073_Picture%20%202025-03-03%20at%203.20.11%E2%80%AFPM.webp",
+      "sm-img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/680a0ad8d99022ce1f693118_67c5ba7e3e929d0429699fc3_Picture%20%202025-03-03%20at%203.19.25%E2%80%AFPM.webp",
+      "title": "MANSORY x UNDER ARMOUR Le MANSORY",
+      "desc": "based on FORD GT"      
+    },
+    {
+      "id": 5,
+      "lg-img": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/677e57811d223b43593393ba_revuelto-main.avif",
+      "sm-img": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/677e56e60a4e34f971946337_hero-mb-revuelto.avif",
+      "title": "MANSORY Initiate",
+      "desc": ""      
+    },
+    {
+      "id": 6,
+      "lg-img": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/67642737880323636cbb54d0_Rolls-Royce_Cullinan_by_MANSORY_MY2025_19.avif",
+      "sm-img": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/677e5cf587e927698db19a5b_6764270b5813879a00ce281a_cullinan_2025_hero_mobile.avif",
+      "title": "Rolls-Royce Cullinan MY 2025 by MANSORY",
+      "desc": ""      
+    },
+    {
+      "id": 7,
+      "lg-img": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/674ebf21b259108aa9eb531f_hero.avif",
+      "sm-img": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/67e16cc80227f8f238cfcc35_hero-thumb-gronos.avif",
+      "title": "GRONOS MY2025",
+      "desc": "First complete conversion based on the Mercedes G-class G63 (MY2025) worldwide"      
+    },
+    {
+      "id": 8,
+      "lg-img": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/66f54188e53177a00627e47a_main-image-hero-homeslider.avif",
+      "sm-img": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/67e16dfa80bb6d0148b3247f_hero-puro-slider.avif",
+      "title": "The MANSORY Pugnator",
+      "desc": "is an eye-catcher par excellence"      
+    },
+    {
+      "id": 9,
+      "lg-img": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/68495d9da8dc17380f45dcc7_680101cfb1e19ad8426f4ec7_spectre-oro-hero.avif",
+      "sm-img": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/68552c5879f2ddf555684f8f_680101d179bf250f3374b886_spectre-oro-hero-mb.avif",
+      "title": "Spectre Equista Linea d‘Oro",
+      "desc": ""      
+    }
   ]
 }
