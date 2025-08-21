@@ -1,21 +1,39 @@
 {
-  "cars": [
+  "car": [
     {
-      "id": 1,
-      "name": "MANSORY Venatus",
-      "brand": "Lamborghini",
-      "price": "Upon Request",
-      "image": "https://example.com/venatus.jpg",
-      "description": "Exclusive Lamborghini Urus upgrade by Mansory"
-    },
-    {
-      "id": 2,
-      "name": "MANSORY P9LM EVO 900",
-      "brand": "Porsche",
-      "price": "Upon Request",
-      "image": "https://example.com/p9lm.jpg",
-      "description": "Porsche 911 Turbo S refinement program"
+      "id" : "1",
+      "title": "MANSORY goes art – Collaboration with pop artist Alec Monopoly",
+      "brand": "Mercedes-Benz",
+      "model": "G-Class",
+      "mainImg": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/6851233c658492d0b55bfdfc_alec-hero.webp",
+      "desc": "Mercedes G-Class (W465) completely converted into a SWB four-door convertible, which follows the MANSORY philosophy “One of One” (each vehicle is delivered as a one off only) and with a limitation of 10 units",
+      "exterior": {
+        "desc": "EXTERIOR Converting the 'MANSORY Grand Entrée' into a SWB four-door convertible requires extensive body modifications because converting a sedan into a convertible requires significantly more effort and technical expertise than converting a coupé into a convertible.",
+        "img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/6851243075f31ed3787019cd_P820_ART_PIECE_05%20kopie.webp"
+      },
+      "interior":{
+        "desc": "As with all MANSORY complete conversions, the interior design can be freely chosen in terms of colour, type of leather used, quilting of the leather surfaces, and the design of the carbon fibre parts. Various interior trim panels were also individually designed and created by Alec Monopoly.",
+        "img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/68512438900e1b32bcc74342_G-Cabrio%20Alec%202025-06-73%20kopie.webp"
+      },
+      "floatingImg": [
+        {
+          "id": 1,
+          "img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/685123acb270d3eaa4abd850_G-Cabrio%20Alec%202025-06-8%20kopie.webp"
+        },
+        {
+          "id": 2,
+          "img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/685123ae94d536020aa1c468_G-Cabrio%20Alec%202025-06-40%20kopie.webp"
+        }
+      ],
+      "features": [
+        "Limited edition",
+        "Wide body kit"
+      ]
     }
+
+
+
+
   ],
   "news": [
     {
