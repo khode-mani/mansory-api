@@ -3,7 +3,6 @@
   {
     "id": "1",
     "title": "MANSORY goes art – Collaboration with pop artist Alec Monopoly",
-    "title_fa": "منصوری وارد دنیای هنر می‌شود – همکاری با هنرمند پاپ الک مونوپولی",
     "brand": "Mercedes-Benz",
     "model": "G-Class",
     "desc": "Mercedes G-Class (W465) completely converted into a SWB four-door convertible, which follows the MANSORY philosophy “One of One” (each vehicle is delivered as a one off only) and with a limitation of 10 units",
@@ -50,7 +49,6 @@
   {
     "id": "2",
     "title": "M5",
-    "title_fa": "ام 5",
     "brand": "BMW",
     "model": "M5",
     "desc": "MANSORY introduce the new thrilled customization programme with power and aerodynamics precision for the BMW M5 (G90)",
@@ -90,7 +88,6 @@
   {
     "id": "3",
     "title": "Pugnator Tricolore",
-    "title_fa": "پوگناتور تریکولوره",
     "brand": "Ferrari",
     "model": "Purosangue",
     "desc": "Based on Ferrari Purosangue - Power increase to 755 HP / 730 Nm - Limited One-Off",
@@ -131,7 +128,6 @@
   {
     "id": "4",
     "title": "Purosangue",
-    "title_fa": "پوروسانگوئه",
     "brand": "Ferrari",
     "model": "Purosangue",
     "desc": "Complete vehicle conversion | Base vehicle: Ferrari Purosangue | Special paint finish in the colour ‘Vermillion’ | Full carbon bonnet made from through-coloured forged carbon | All add-on parts in through-coloured forged carbon | Newly designed forged lightweight rims type ‘FC.5’ | Power increase to 755 hp / 730 Nm",
@@ -178,7 +174,6 @@
   {
     "id": "5",
     "title": "Revuelto",
-    "title_fa": "روولتو",
     "brand": "Lamborghini",
     "model": "Revuelto",
     "desc": "Based Lamborghini Revuelto - Power increase to 1.070 HP / 750 Nm - Mansory Atelier interior",
@@ -221,7 +216,6 @@
   {
     "id": "6",
     "title": "Grand Entrée - One of One",
-    "title_fa": "گراند آنتره - تک‌نسخه",
     "brand": "Mercedes-Benz",
     "model": "G-Class",
     "desc": "Based on facelift Mercedes-AMG G63 - Suicide rear doors - Power increase to 820 HP / 1.150 Nm - Limited One-Off",
@@ -266,7 +260,6 @@
   {
     "id": "7",
     "title": "GRONOS Pickup EVO S",
-    "title_fa": "گرونوس پیکاپ EVO S",
     "brand": "Mercedes-Benz",
     "model": "G-Class",
     "desc": "Final Edition - Power increase to 1000 HP / 1.250 Nm - Based on Mercedes-AMG G63 - Limited to 1 of 1",
@@ -309,7 +302,6 @@
   {
     "id": "8",
     "title": "GT / GTC (MY2025)",
-    "title_fa": "جی‌تی / جی‌تی‌سی (سال‌مدل 2025)",
     "brand": "Bentley",
     "model": "Continental GTC",
     "desc": "MANSORY presents the Bentley Continental GTC as complete conversion",
@@ -352,7 +344,6 @@
   {
     "id": "9",
     "title": "MANSORY SPERANZA",
-    "title_fa": "منصوری اسپرانزا",
     "brand": "Mercedes-Benz",
     "model": "G-Class",
     "desc": "Completely Mercedes G-Class (W465) converted into a 4-door convertible, which follows the MANSORY philosophy “One of One” (each vehicle is delivered as a one off only)",
@@ -399,7 +390,6 @@
   {
     "id": "10",
     "title": "MANSORY ELONGATION EVO",
-    "title_fa": "منصوری الونگیشن EVO",
     "brand": "Tesla",
     "model": "Cybertruck",
     "desc": "Complete customization programme for the Tesla Cybertruck to continue the product strategy of MANSORY for the Tesla brand.",
