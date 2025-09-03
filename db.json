@@ -259,12 +259,12 @@
   },
   {
     "id": "7",
-    "title": "GRONOS Pickup EVO S",
-    "brand": "Mercedes-Benz",
-    "model": "G-Class",
-    "desc": "Final Edition - Power increase to 1000 HP / 1.250 Nm - Based on Mercedes-AMG G63 - Limited to 1 of 1",
-    "desc_fa": "نسخهٔ نهایی - افزایش قدرت به 1000 اسب‌بخار / 1.250 نیوتن‌متر - بر پایهٔ مرسدس-ای‌ام‌جی G63 - محدود به 1 از 1",
-    "mainImg": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/681b2494bd25aa58bca7187d_gronos-pickup-hero.webp",
+    "title": "Equista Linea d‘Oro",
+    "brand": "Rolls-Royce",
+    "model": "Spectre",
+    "desc": "the Golden Age of luxury is here: the MANSORY Equista Linea d‘Oro,",
+    "desc_fa": "عصر طلایی لوکس از راه رسیده است: منصوری اکویستا لینیا دورو",
+    "mainImg": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/680101cfb1e19ad8426f4ec7_spectre-oro-hero.avif",
     "exterior": {
       "desc": "",
       "img": ""
@@ -276,11 +276,11 @@
     "floatingImg": [
       {
         "id": 1,
-        "img": ""
+        "img": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/680101da7689986a7c03897a_Picture%20%202025-04-17%20at%203.20.59%E2%80%AFPM.avif"
       },
       {
         "id": 2,
-        "img": ""
+        "img": "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/680101dd81f4f8f0e0418b53_Picture%20%202025-04-17%20at%203.21.15%E2%80%AFPM.avif"
       }
     ],
     "performance": {
@@ -290,12 +290,10 @@
     },
     "features": [
       "Atelier",
-      "Latest additions",
       "one of one"
     ],
     "features_fa": [
       "آتلیه",
-      "جدیدترین افزوده‌ها",
       "تک‌نسخه"
     ]
   },
@@ -395,6 +393,7 @@
     "desc": "Complete customization programme for the Tesla Cybertruck to continue the product strategy of MANSORY for the Tesla brand.",
     "desc_fa": "برنامهٔ کامل سفارشی‌سازی برای تسلا سایبرتراک به‌منظور ادامهٔ استراتژی محصول منصوری برای برند تسلا.",
     "mainImg": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/6819f3d6cbe7a184959ba097_cybertruck-fullcarbon-hero.webp",
+   
     "exterior": {
       "desc": "Various add-on parts made of full carbon are available for customizing the exterior.",
       "desc_fa": "برای سفارشی‌سازی نمای بیرونی، قطعات افزودنی گوناگون از جنس فیبرکربن کامل در دسترس است.",
@@ -431,6 +430,93 @@
       "جدیدترین افزوده‌ها",
       "تک‌نسخه",
       "تماماً فیبرکربن"
+    ]
+  },
+    {
+    "id": "11",
+    "title": "Equista Linea d‘Oro",
+    "brand": "Ford",
+    "model": "Ford-GT",
+    "desc": "MANSORY and the US sportswear manufacturer “UNDER ARMOUR” announce an extensive cooperation agreement on the occasion of the NBA All-Star Game in San Francisco",
+    "desc_fa": "منصوری و تولیدکننده پوشاک ورزشی آمریکایی «آندر آرمور» به مناسبت بازی آل-استار NBA در سانفرانسیسکو، از یک توافق همکاری گسترده خبر دادند",
+    "mainImg": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/6818bea49d703e395c18b019_FORD%2520GT%2520-%2520UNDER%2520ARMOUR%2520Le%2520MANSORY-Hero_image-001.webp",
+
+    "exterior": {
+      "desc": "IDEA San Francisco – To promote the new clothing line from UNDER ARMOUR and MANSORY, which will be launched in August 2025, MANSORY presented an exclusively built “ONE-OFF” version of the legendary “Le MANSORY” at an exclusive party on the eve of the NBA All-Star Game in San Francisco. This vehicle - inspired by Stephen Curry - will now be used as an eye-catcher with the name “MANSORY x UNDER ARMOUR Le MANSORY” for a nationwide marketing campaign in the United States of America and will make more appearances throughout the year.",
+      "desc_fa": "IDEA سانفرانسیسکو - برای تبلیغ خط تولید لباس جدید UNDER ARMOUR و MANSORY، که در آگوست 2025 راه اندازی می شود، MANSORY یک نسخه انحصاری 'ONE-OFF' افسانه ای 'Le MANSORY' را در یک مهمانی انحصاری در آستانه بازی NBA All-Star در سانفرانسیسکو ارائه کرد. این وسیله نقلیه - با الهام از استفان کاری - اکنون به عنوان یک چشم نواز با نام 'MANSORY x UNDER ARMOUR Le MANSORY' برای یک کمپین بازاریابی سراسری در ایالات متحده آمریکا مورد استفاده قرار می گیرد و در طول سال ظاهر بیشتری خواهد داشت.",
+      "img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/6818bea89d703e395c18b06c_FORD%2520GT%2520-%2520UNDER%2520ARMOUR%2520Le%2520MANSORY-Exterior_-_Main_image-001.webp"
+    },
+    "interior": {
+      "desc": "As is usual with all MANSORY complete conversions, almost no component in the interior was left untouched by the MANSORY specialists. Following the external colour concept, the colors black and yellow also dominate the interior of the 'Le MANSORY UNDER ARMOUR' promotional car.",
+      "desc_fa": "طبق معمول در تمام تبدیل های کامل MANSORY، تقریبا هیچ قطعه ای در فضای داخلی توسط متخصصان MANSORY دست نخورده باقی نمانده است. با پیروی از مفهوم رنگ خارجی، رنگ های سیاه و زرد نیز بر فضای داخلی خودروی تبلیغاتی 'Le MANSORY UNDER ARMOUR' غالب هستند.",
+      "img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/6818bea89d703e395c18b069_FORD%2520GT%2520-%2520UNDER%2520ARMOUR%2520Le%2520MANSORY-Interior_-_Main_image-001.webp"
+    },
+    "floatingImg": [
+      {
+        "id": 1,
+        "img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/6818bea49d703e395c18b01f_FORD%2520GT%2520-%2520UNDER%2520ARMOUR%2520Le%2520MANSORY-Portait_image_-_1-001.webp"
+      },
+      {
+        "id": 2,
+        "img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/6818bea39d703e395c18b005_FORD%2520GT%2520-%2520UNDER%2520ARMOUR%2520Le%2520MANSORY-Portait_image_-_2-001.webp"
+      }
+    ],
+    "performance": {
+      "power": "",
+      "torque": "",
+      "vMax": ""
+    },
+    "features": [
+      "Atelier",
+      "Limited edition"
+    ],
+    "features_fa": [
+      "آتلیه",
+      "نسخهٔ محدود"
+    ]
+  },
+
+  {
+    "id": "12",
+    "title": "Cullinan II",
+    "brand": "Rolls-Royce",
+    "model": "Cullinan",
+    "desc": "Complete vehicle conversion based on the Rolls-Royce Cullinan MY 2025 to continue the successful product strategy of MANSORY in the field of high-end automotive refinement.",
+    "desc_fa": "تبدیل کامل خودرو بر اساس رولز رویس کالینان ۲۰۲۵ من برای ادامه استراتژی موفق تولید منصوری در زمینه بهبود خودروهای لوکس.",
+    "mainImg": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/6818c4229400676a9bb2571d_Rolls-Royce%2520Cullinan%2520MY2025-Hero_image-001.webp",
+    
+    "exterior": {
+      "desc": "The changes to the exterior made by Rolls Royce as part of its facelift for the 2025 model year were a welcome opportunity for the designers at MANSORY to redesign the corresponding body components of the MANSORY complete conversion and implement them with a design language that has been further refined in detail.",
+      "desc_fa": "تغییراتی که رولز رویس در نمای بیرونی به عنوان بخشی از فیس لیفت خود برای مدل سال 2025 ایجاد کرد، فرصتی خوشایند برای طراحان MANSORY بود تا اجزای بدنه مربوط به تبدیل کامل MANSORY را دوباره طراحی کنند و آنها را با زبان طراحی که با جزئیات بیشتر اصلاح شده است، پیاده سازی کنند.",
+      "img": ""
+    },
+    "interior": {
+      "desc": "Only the finest materials are used in the interior of the 'Cullinan by MANSORY MY25' and the interior, which is always completely re-covered with leather, only contains the highest quality leather used in automobile construction.",
+      "desc_fa": "فقط از بهترین مواد در فضای داخلی 'Cullinan by MANSORY MY25' استفاده می شود و فضای داخلی که همیشه به طور کامل با چرم پوشانده می شود، فقط حاوی با کیفیت ترین چرم مورد استفاده در ساخت خودرو است.",
+      "img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/6818c4229400676a9bb25703_Rolls-Royce%2520Cullinan%2520MY2025-Interior_-_Main_image-001.webp"
+    },
+    "floatingImg": [
+      {
+        "id": 1,
+        "img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/6818c4229400676a9bb256c4_Rolls-Royce%2520Cullinan%2520MY2025-Portait_image_-_1-001.webp"
+      },
+      {
+        "id": 2,
+        "img": "https://www.mansory.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/6818c4229400676a9bb25700_Rolls-Royce%2520Cullinan%2520MY2025-Portait_image_-_2-001.webp"
+      }
+    ],
+    "performance": {
+      "power": "",
+      "torque": "",
+      "vMax": ""
+    },
+    "features": [
+      "Atelier",
+      "Latest additions"
+    ],
+    "features_fa": [
+      "آتلیه",
+      "جدیدترین افزوده‌ها"
     ]
   }
 ],
